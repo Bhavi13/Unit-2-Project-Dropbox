@@ -36,5 +36,4 @@ Time spent: `Almost 10-11 hours`
 
 ### Walkthrough
 
-`<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![unit2dropbox](https://cloud.githubusercontent.com/assets/5514807/12166023/88afacfc-b4d7-11e5-972f-10a275ed782f.gif)
